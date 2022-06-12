@@ -2,4 +2,5 @@ you are dog
 you are stupid
 you are fw
 玩游戏、听音乐进厂996
+在hot-fix分支下修改
 
